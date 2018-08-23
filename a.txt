@@ -1,1 +1,2 @@
-Now I've added some text
+Now I've added some text.
+And some more text.
